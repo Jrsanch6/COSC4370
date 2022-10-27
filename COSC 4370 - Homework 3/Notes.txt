@@ -1,0 +1,2 @@
+The following website was used to understand the homework and used as a guide to learn about Phong Shading Model. Nothing was stolen from the website.
+https://learnopengl.com/Lighting/Basic-Lighting
